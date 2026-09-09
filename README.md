@@ -13,4 +13,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [4245-count-commas-in-range](https://github.com/dhanushaarnit143-blip/leetcode/tree/master/4245-count-commas-in-range) |
+| [4248-count-commas-in-range-ii](https://github.com/dhanushaarnit143-blip/leetcode/tree/master/4248-count-commas-in-range-ii) |
 <!---LeetCode Topics End-->
