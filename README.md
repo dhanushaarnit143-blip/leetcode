@@ -14,4 +14,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [4245-count-commas-in-range](https://github.com/dhanushaarnit143-blip/leetcode/tree/master/4245-count-commas-in-range) |
 | [4248-count-commas-in-range-ii](https://github.com/dhanushaarnit143-blip/leetcode/tree/master/4248-count-commas-in-range-ii) |
+## Tree
+|  |
+| ------- |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/dhanushaarnit143-blip/leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
+## Depth-First Search
+|  |
+| ------- |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/dhanushaarnit143-blip/leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
+## Binary Tree
+|  |
+| ------- |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/dhanushaarnit143-blip/leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->
