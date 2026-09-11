@@ -26,4 +26,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/dhanushaarnit143-blip/leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
+## Array
+|  |
+| ------- |
+| [3799-unique-3-digit-even-numbers](https://github.com/dhanushaarnit143-blip/leetcode/tree/master/3799-unique-3-digit-even-numbers) |
+## Hash Table
+|  |
+| ------- |
+| [3799-unique-3-digit-even-numbers](https://github.com/dhanushaarnit143-blip/leetcode/tree/master/3799-unique-3-digit-even-numbers) |
+## Recursion
+|  |
+| ------- |
+| [3799-unique-3-digit-even-numbers](https://github.com/dhanushaarnit143-blip/leetcode/tree/master/3799-unique-3-digit-even-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3799-unique-3-digit-even-numbers](https://github.com/dhanushaarnit143-blip/leetcode/tree/master/3799-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
