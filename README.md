@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0977-distinct-subsequences-ii](https://github.com/dhanushaarnit143-blip/leetcode/tree/master/0977-distinct-subsequences-ii) |
+| [3562-maximum-score-of-non-overlapping-intervals](https://github.com/dhanushaarnit143-blip/leetcode/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 ## Math
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [3562-maximum-score-of-non-overlapping-intervals](https://github.com/dhanushaarnit143-blip/leetcode/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 | [3799-unique-3-digit-even-numbers](https://github.com/dhanushaarnit143-blip/leetcode/tree/master/3799-unique-3-digit-even-numbers) |
 ## Hash Table
 |  |
@@ -42,4 +44,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3799-unique-3-digit-even-numbers](https://github.com/dhanushaarnit143-blip/leetcode/tree/master/3799-unique-3-digit-even-numbers) |
+## Binary Search
+|  |
+| ------- |
+| [3562-maximum-score-of-non-overlapping-intervals](https://github.com/dhanushaarnit143-blip/leetcode/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
+## Sorting
+|  |
+| ------- |
+| [3562-maximum-score-of-non-overlapping-intervals](https://github.com/dhanushaarnit143-blip/leetcode/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
