@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0866-rectangle-overlap](https://github.com/dhanushaarnit143-blip/leetcode/tree/master/0866-rectangle-overlap) |
 | [4245-count-commas-in-range](https://github.com/dhanushaarnit143-blip/leetcode/tree/master/4245-count-commas-in-range) |
 | [4248-count-commas-in-range-ii](https://github.com/dhanushaarnit143-blip/leetcode/tree/master/4248-count-commas-in-range-ii) |
 ## Tree
@@ -57,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0864-image-overlap](https://github.com/dhanushaarnit143-blip/leetcode/tree/master/0864-image-overlap) |
+## Geometry
+|  |
+| ------- |
+| [0866-rectangle-overlap](https://github.com/dhanushaarnit143-blip/leetcode/tree/master/0866-rectangle-overlap) |
 <!---LeetCode Topics End-->
