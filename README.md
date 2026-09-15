@@ -5,10 +5,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0977-distinct-subsequences-ii](https://github.com/dhanushaarnit143-blip/leetcode/tree/master/0977-distinct-subsequences-ii) |
+| [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/dhanushaarnit143-blip/leetcode/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0977-distinct-subsequences-ii](https://github.com/dhanushaarnit143-blip/leetcode/tree/master/0977-distinct-subsequences-ii) |
+| [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/dhanushaarnit143-blip/leetcode/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/dhanushaarnit143-blip/leetcode/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 ## Math
 |  |
@@ -62,4 +64,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0866-rectangle-overlap](https://github.com/dhanushaarnit143-blip/leetcode/tree/master/0866-rectangle-overlap) |
+## Two Pointers
+|  |
+| ------- |
+| [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/dhanushaarnit143-blip/leetcode/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
+## Greedy
+|  |
+| ------- |
+| [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/dhanushaarnit143-blip/leetcode/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 <!---LeetCode Topics End-->
