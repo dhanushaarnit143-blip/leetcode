@@ -10,12 +10,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0977-distinct-subsequences-ii](https://github.com/dhanushaarnit143-blip/leetcode/tree/master/0977-distinct-subsequences-ii) |
+| [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/dhanushaarnit143-blip/leetcode/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/dhanushaarnit143-blip/leetcode/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/dhanushaarnit143-blip/leetcode/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 ## Math
 |  |
 | ------- |
 | [0866-rectangle-overlap](https://github.com/dhanushaarnit143-blip/leetcode/tree/master/0866-rectangle-overlap) |
+| [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/dhanushaarnit143-blip/leetcode/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 | [4245-count-commas-in-range](https://github.com/dhanushaarnit143-blip/leetcode/tree/master/4245-count-commas-in-range) |
 | [4248-count-commas-in-range-ii](https://github.com/dhanushaarnit143-blip/leetcode/tree/master/4248-count-commas-in-range-ii) |
 ## Tree
@@ -72,4 +74,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/dhanushaarnit143-blip/leetcode/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
+## Combinatorics
+|  |
+| ------- |
+| [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/dhanushaarnit143-blip/leetcode/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
+## Prefix Sum
+|  |
+| ------- |
+| [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/dhanushaarnit143-blip/leetcode/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
