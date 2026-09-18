@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0977-distinct-subsequences-ii](https://github.com/dhanushaarnit143-blip/leetcode/tree/master/0977-distinct-subsequences-ii) |
+| [1644-maximum-number-of-non-overlapping-substrings](https://github.com/dhanushaarnit143-blip/leetcode/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/dhanushaarnit143-blip/leetcode/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Dynamic Programming
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/dhanushaarnit143-blip/leetcode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1644-maximum-number-of-non-overlapping-substrings](https://github.com/dhanushaarnit143-blip/leetcode/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [3799-unique-3-digit-even-numbers](https://github.com/dhanushaarnit143-blip/leetcode/tree/master/3799-unique-3-digit-even-numbers) |
 ## Recursion
 |  |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1644-maximum-number-of-non-overlapping-substrings](https://github.com/dhanushaarnit143-blip/leetcode/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/dhanushaarnit143-blip/leetcode/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 ## Matrix
 |  |
@@ -77,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1644-maximum-number-of-non-overlapping-substrings](https://github.com/dhanushaarnit143-blip/leetcode/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/dhanushaarnit143-blip/leetcode/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Combinatorics
 |  |
