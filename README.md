@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0864-image-overlap](https://github.com/dhanushaarnit143-blip/leetcode/tree/master/0864-image-overlap) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/dhanushaarnit143-blip/leetcode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/dhanushaarnit143-blip/leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/dhanushaarnit143-blip/leetcode/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 | [3799-unique-3-digit-even-numbers](https://github.com/dhanushaarnit143-blip/leetcode/tree/master/3799-unique-3-digit-even-numbers) |
 ## Hash Table
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/dhanushaarnit143-blip/leetcode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/dhanushaarnit143-blip/leetcode/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/dhanushaarnit143-blip/leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [3799-unique-3-digit-even-numbers](https://github.com/dhanushaarnit143-blip/leetcode/tree/master/3799-unique-3-digit-even-numbers) |
 ## Recursion
 |  |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/dhanushaarnit143-blip/leetcode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/dhanushaarnit143-blip/leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/dhanushaarnit143-blip/leetcode/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 ## Sorting
 |  |
@@ -90,8 +93,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/dhanushaarnit143-blip/leetcode/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/dhanushaarnit143-blip/leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 ## Sliding Window
 |  |
 | ------- |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/dhanushaarnit143-blip/leetcode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/dhanushaarnit143-blip/leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 <!---LeetCode Topics End-->
